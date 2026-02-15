@@ -1,0 +1,26 @@
+[
+  {
+    "id": "techanrts",
+    "url": "https://technarts.com/",
+    "interval": 10,
+    "timeout": 10
+  },
+  {
+    "id": "techanrts",
+    "url": "https://technarts.com/",
+    "interval": 10,
+    "timeout": 5
+  },
+  {
+    "id": "techanrts",
+    "url": "https://technarts.com/",
+    "interval": 10,
+    "timeout": 5
+  },
+  {
+    "id": "techanrts",
+    "url": "https://technarts.com/",
+    "interval": 10,
+    "timeout": 5
+  }
+]

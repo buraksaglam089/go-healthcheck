@@ -1,25 +1,19 @@
 [
   {
-    "id": "techanrts",
-    "url": "https://technarts.com/",
-    "interval": 10,
-    "timeout": 10
+    "id": "google",
+    "url": "https://www.google.com",
+    "interval": 5,
+    "timeout": 5
   },
   {
-    "id": "techanrts",
-    "url": "https://technarts.com/",
+    "id": "github",
+    "url": "https://github.com",
     "interval": 10,
     "timeout": 5
   },
   {
-    "id": "techanrts",
-    "url": "https://technarts.com/",
-    "interval": 10,
-    "timeout": 5
-  },
-  {
-    "id": "techanrts",
-    "url": "https://technarts.com/",
+    "id": "wikipedia",
+    "url": "https://www.wikipedia.org",
     "interval": 10,
     "timeout": 5
   }

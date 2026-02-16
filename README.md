@@ -28,7 +28,7 @@ You can think of it as a minimal uptime and microservice checker.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/go-healthcheck.git
+git clone https://github.com/buraksaglam089/go-healthcheck.git
 cd go-healthcheck
 go mod tidy
 ```

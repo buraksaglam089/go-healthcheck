@@ -25,12 +25,12 @@ type Result struct {
 type HTTPChecker struct {
 	ID         string        `json:"id"`
 	URL        string        `json:"url"`
-	Timeout    time.Duration `json:"interval"`
+	Timeout    time.Duration `json:"timeout"`
 	httpClient *http.Client
 }
 
 type Checker interface {
-	Check(ctx context.Context) error
+	Check(ctx context.Context) Result
 }
 
 func NewHTTPChecker(t Target) *HTTPChecker {
